@@ -1,6 +1,6 @@
 'use strict'
 // ==UserScript==
-// @name         Faction Recruitment faction
+// @name         Faction Recruitment helper
 // @author       Skipper [390936]
 // @version      0.0.1
 // @description  Removes those already in a faction from advanced search
