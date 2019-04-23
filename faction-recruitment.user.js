@@ -4,7 +4,7 @@
 // @author       Skipper [390936]
 // @version      0.0.1
 // @description  Removes those already in a faction from advanced search
-// @updateURL    https://github.com/kristen-colquhoun/torn-scripts/raw/master/faction-recruitment.js
+// @updateURL    https://github.com/kristen-colquhoun/torn-scripts/raw/master/faction-recruitment.user.js
 // @include      *.torn.com/userlist.php?*
 // ==/UserScript==
 
